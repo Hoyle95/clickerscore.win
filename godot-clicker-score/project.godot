@@ -27,10 +27,8 @@ global="*res://global.gd"
 
 window/size/viewport_width=400
 window/size/viewport_height=800
-window/stretch/aspect="keep_width"
-window/stretch/scale_mode="integer"
+window/stretch/mode="canvas_items"
 window/handheld/orientation=1
-window/vsync/vsync_mode=3
 
 [editor_plugins]
 
